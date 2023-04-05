@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<cutproject>
+    <parameters sawwith="0"/>
+	<cuts>
+		<cut length="1380" quantity="22"/>
+		<cut length="1520" quantity="25"/>
+		<cut length="1560" quantity="12"/>
+		<cut length="1710" quantity="14"/>
+		<cut length="1820" quantity="18"/>
+		<cut length="1880" quantity="18"/>
+		<cut length="1930" quantity="20"/>
+		<cut length="2000" quantity="10"/>
+		<cut length="2050" quantity="12"/>
+		<cut length="2100" quantity="14"/>
+		<cut length="2140" quantity="16"/>
+		<cut length="2150" quantity="18"/>
+		<cut length="2200" quantity="20"/>
+	</cuts>
+	<stock>
+		<bar length="5600" quantity="-1" ltrim="0" rtrim="0"/>		
+	</stock>
+</cutproject>
