@@ -1,0 +1,39 @@
+Barra,Posición,Nombre,Longitud (mm),Con kerf (mm),Sobrante barra (mm),Eficiencia (%)
+1,0,Larguero A,2400,2403,291,95.2
+1,2403,Larguero A,2400,2403,,
+1,4806,Montante,900,903,,
+2,0,Larguero A,2400,2403,288,95.2
+2,2403,Larguero B,1800,1803,,
+2,4206,Travesaño,1200,1203,,
+2,5409,Escuadra,300,303,,
+3,0,Larguero B,1800,1803,288,95.2
+3,1803,Larguero B,1800,1803,,
+3,3606,Larguero B,1800,1803,,
+3,5409,Escuadra,300,303,,
+4,0,Travesaño,1200,1203,285,95.2
+4,1203,Travesaño,1200,1203,,
+4,2406,Travesaño,1200,1203,,
+4,3609,Travesaño,1200,1203,,
+4,4812,Montante,900,903,,
+5,0,Montante,900,903,276,95.4
+5,903,Montante,900,903,,
+5,1806,Montante,900,903,,
+5,2709,Montante,900,903,,
+5,3612,Separador,600,603,,
+5,4215,Separador,600,603,,
+5,4818,Separador,600,603,,
+5,5421,Escuadra,300,303,,
+6,0,Separador,600,603,58,99.0
+6,603,Separador,600,603,,
+6,1206,Separador,600,603,,
+6,1809,Separador,600,603,,
+6,2412,Taco,400,403,,
+6,2815,Taco,400,403,,
+6,3218,Taco,400,403,,
+6,3621,Taco,400,403,,
+6,4024,Taco,400,403,,
+6,4427,Escuadra,300,303,,
+6,4730,Escuadra,300,303,,
+6,5033,Escuadra,300,303,,
+6,5336,Escuadra,300,303,,
+6,5639,Escuadra,300,303,,

@@ -1,0 +1,45 @@
+Barra,Pieza #,Nombre,Longitud (mm),Con kerf (mm),Sobrante barra (mm)
+1,1,Larguero secundario,1800,1803,364
+1,2,Separador,600,603,
+1,3,Taco,400,403,
+1,4,Taco,400,403,
+1,5,Escuadra,300,303,
+1,6,Escuadra,300,303,
+1,7,Escuadra,300,303,
+1,8,Escuadra,300,303,
+1,9,Escuadra,300,303,
+1,10,Escuadra,300,303,
+1,11,Escuadra,300,303,
+1,12,Escuadra,300,303,
+2,1,Larguero principal,2400,2403,188
+2,2,Larguero secundario,1800,1803,
+2,3,Travesaño medio,1200,1203,
+2,4,Taco,400,403,
+3,1,Larguero principal,2400,2403,35
+3,2,Travesaño medio,1200,1203,
+3,3,Travesaño medio,1200,1203,
+3,4,Refuerzo,750,753,
+3,5,Taco,400,403,
+4,1,Larguero principal,2400,2403,285
+4,2,Montante,900,903,
+4,3,Montante,900,903,
+4,4,Montante,900,903,
+4,5,Separador,600,603,
+5,1,Larguero secundario,1800,1803,285
+5,2,Travesaño largo,1500,1503,
+5,3,Montante,900,903,
+5,4,Montante,900,903,
+5,5,Separador,600,603,
+6,1,Travesaño largo,1500,1503,279
+6,2,Montante,900,903,
+6,3,Refuerzo,750,753,
+6,4,Refuerzo,750,753,
+6,5,Separador,600,603,
+6,6,Separador,600,603,
+6,7,Separador,600,603,
+7,1,Larguero secundario,1800,1803,32
+7,2,Travesaño medio,1200,1203,
+7,3,Travesaño medio,1200,1203,
+7,4,Refuerzo,750,753,
+7,5,Separador,600,603,
+7,6,Taco,400,403,
