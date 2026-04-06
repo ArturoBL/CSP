@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<cutproject>
+    <parameters sawwith="3"/>
+	<cuts>
+		<cut length="3450" quantity="2"/>
+		<cut length="2000" quantity="1"/>
+		<cut length="4000" quantity="1"/>		
+	</cuts>
+	<stock>
+		<bar length="6100" quantity="2" ltrim="0" rtrim="0"/>
+		<bar length="5000" quantity="1" ltrim="0" rtrim="0"/>
+		<bar length="7000" quantity="1" ltrim="40" rtrim="40"/>
+	</stock>
+</cutproject>
